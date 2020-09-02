@@ -1,0 +1,27 @@
+/**************************TAG SELECTORS*/
+
+body {
+  background-color:lavender;
+}
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: mediumblue;
+  border-width: 5px;
+}
+h1 {
+  color: maroon;
+}
+h3 {
+  color: maroon;
+}
+img {
+  background-color:lavender;
+}
+/**************************CLASS SELECTORS*/
+.peace {
+  border-radius: 75%
+}
+
+
+/**************************ID SELECTORS*/
